@@ -1,0 +1,7 @@
+.btn, a, a:hover, .menu-single,.menu-single:hover img, .menu-single:hover .ms-abs{
+-webkit-transition: all 0.4s;
+   -moz-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+     -o-transition: all 0.4s;
+        transition: all 0.4s;
+}
